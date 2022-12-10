@@ -1,0 +1,42 @@
+Jenis,Tipe,Kursi,Silinder,CC,Tenaga,Keyles_Entry,SS_Button,BBM,Transmisi,Turbo,ADAS,Harga
+Hatchback,Honda Brio,5,4,1199,89,Yes,No,Bensin,CVT,No,No,237400000
+Crossover,Honda WR-V,5,4,1498,119,Yes,Yes,Bensin,CVT,No,Yes,309900000
+MPV,Toyota Kijang Innova,7,4,2393,147,Yes,No,Diesel,Automatic,No,No,471900000
+Crossover,Honda HRV,5,4,1498,175,Yes,Yes,Bensin,CVT,Yes,Yes,515900000
+MPV,Mitsubishi Xpander,7,4,1499,104,Yes,Yes,Bensin,CVT,No,No,307100000
+MPV,Toyota Avanza,7,4,1496,105,Yes,Yes,Bensin,CVT,No,Yes,295800000
+Hatchback,Daihatsu Ayla,5,4,1197,87,No,No,Bensin,Automatic,No,No,172550000
+SUV,Toyota Rush,7,4,1496,103,Yes,Yes,Bensin,Automatic,No,No,302200000
+SUV,Toyota Raize,5,3,998,97,Yes,Yes,Bensin,CVT,Yes,Yes,301900000
+MPV,Daihatsu Sigra ,7,4,1197,87,Yes,No,Bensin,Automatic,No,No,174700000
+SUV,Honda BRV,5,4,1497,119,Yes,Yes,Bensin,CVT,No,Yes,348600000
+SUV,Mitsubishi Pajero,7,4,2442,179,Yes,Yes,Diesel,Automatic,No,Yes,723500000
+SUV,Toyota Fortuner,7,4,2755,200,Yes,Yes,Diesel,Automatic,No,No,713350000
+Sedan,BMW 3 Series,5,4,1998,258,Yes,Yes,Bensin,Automatic,Yes,No,1150000000
+Sedan,Mercedes C Class,5,4,1991,258,Yes,Yes,Bensin,Automatic,Yes,Yes,1250000000
+Sedan,Toyota Corolla Altis,5,4,1798,138,Yes,Yes,Bensin,CVT,No,Yes,514200000
+Crossover,Citroen C3,5,3,1199,81,Yes,Yes,Bensin,Manual,No,No,224000000
+Sedan,Toyota Camry,5,4,2494,180,Yes,Yes,Bensin,Manual,No,Yes,741700000
+MPV,Toyota Innova Zennix,7,4,1987,172,Yes,Yes,Bensin,CVT,No,Yes,467000000
+Hatchback,Suzuki Baleno,5,4,1462,103,Yes,Yes,Bensin,Automatic,No,Yes,274900000
+Sedan,MG 5 GT,5,4,1498,112,Yes,Yes,Bensin,CVT,No,No,399900000
+Crossover,Hyundai Creta,5,4,1497,113,Yes,Yes,Bensin,CVT,No,Yes,404000000
+Hatchback,Toyota Yaris,5,4,1496,106,Yes,Yes,Bensin,CVT,No,No,325100000
+Hatchback,Mazda 2,5,4,1496,109,Yes,Yes,Bensin,Automatic,No,No,338800000
+Crossover,Mercedes GLA Class,5,4,1991,306,Yes,Yes,Bensin,Automatic,Yes,Yes,1380000000
+Crossover,VW T-Cross,5,3,999,115,Yes,Yes,Bensin,Automatic,Yes,No,488000000
+MPV,Toyota Alphard,7,6,3456,296,Yes,Yes,Bensin,Automatic,No,Yes,1620000000
+MPV,Toyota Voxy,7,4,1986,168,Yes,Yes,Bensin,Automatic,No,Yes,579500000
+SUV,Daihatsu Rocky,5,3,998,97,Yes,Yes,Bensin,Automatic,Yes,Yes,270100000
+MPV,Hyundai Stargazer,7,4,1497,113,Yes,Yes,Bensin,Automatic,No,Yes,307100000
+MPV,KIA Grand Carnival,11,4,2151,199,Yes,Yes,Diesel,Automatic,Yes,Yes,828000000
+SUV,Palisade,7,4,2199,197,Yes,Yes,Diesel,Automatic,Yes,Yes,1110000000
+MPV,Hyundai Staria,7,4,2199,175,Yes,Yes,Diesel,Automatic,Yes,Yes,1030000000
+Sedan,Mercedes CLA Class,5,4,1991,421,Yes,Yes,Bensin,Automatic,Yes,Yes,1790000000
+Sedan,Mercedes E CLass,5,4,1991,197,Yes,Yes,Bensin,Automatic,Yes,Yes,1770000000
+SUV,Jeep Compass,5,4,2398,180,Yes,Yes,Bensin,Automatic,Yes,Yes,699000000
+Crossover,Lexus UX,5,4,1987,202,Yes,Yes,Bensin,CVT,Yes,Yes,998000000
+Hatchback,Mazda 3 Hatchback,5,4,1998,153,Yes,Yes,Bensin,Automatic,No,Yes,523300000
+Hatchback,Fiat 500C,4,4,1368,101,Yes,No,Bensin,Automatic,No,No,425000000
+Coupe ,Toyota Supra,2,6,2998,382,Yes,Yes,Bensin,Automatic,Yes,Yes,2050000000
+Coupe ,Subaru BRZ,2,4,2387,233,Yes,Yes,Bensin,Automatic,No,Yes,850000000
