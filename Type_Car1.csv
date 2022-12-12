@@ -1,0 +1,51 @@
+Jenis,Tipe,Kursi,Silinder,CC,Tenaga,Keyles_Entry,SS_Button,BBM,Transmisi,Turbo,ADAS,Harga,Kategori
+Hatchback,Honda Brio,5,4,1199,89,Yes,No,Bensin,CVT,No,No,237400000,Murah
+Crossover,Honda WR-V,5,4,1498,119,Yes,Yes,Bensin,CVT,No,Yes,309900000,Murah
+MPV,Toyota Kijang Innova,7,4,2393,147,Yes,No,Diesel,Automatic,No,No,471900000,Murah
+Crossover,Honda HRV,5,4,1498,175,Yes,Yes,Bensin,CVT,Yes,Yes,515900000,Standar
+MPV,Mitsubishi Xpander,7,4,1499,104,Yes,Yes,Bensin,CVT,No,No,307100000,Murah
+MPV,Toyota Avanza,7,4,1496,105,Yes,Yes,Bensin,CVT,No,Yes,295800000,Murah
+Hatchback,Daihatsu Ayla,5,4,1197,87,No,No,Bensin,Automatic,No,No,172550000,Murah
+SUV,Toyota Rush,7,4,1496,103,Yes,Yes,Bensin,Automatic,No,No,302200000,Murah
+SUV,Toyota Raize,5,3,998,97,Yes,Yes,Bensin,CVT,Yes,Yes,301900000,Murah
+MPV,Daihatsu Sigra ,7,4,1197,87,Yes,No,Bensin,Automatic,No,No,174700000,Murah
+SUV,Honda BRV,5,4,1497,119,Yes,Yes,Bensin,CVT,No,Yes,348600000,Murah
+SUV,Mitsubishi Pajero,7,4,2442,179,Yes,Yes,Diesel,Automatic,No,Yes,723500000,Standar
+SUV,Toyota Fortuner,7,4,2755,200,Yes,Yes,Diesel,Automatic,No,No,713350000,Standar
+Sedan,BMW 3 Series,5,4,1998,258,Yes,Yes,Bensin,Automatic,Yes,No,1150000000,Mahal
+Sedan,Mercedes C Class,5,4,1991,258,Yes,Yes,Bensin,Automatic,Yes,Yes,1250000000,Mahal
+Sedan,Toyota Corolla Altis,5,4,1798,138,Yes,Yes,Bensin,CVT,No,Yes,514200000,Standar
+Crossover,Citroen C3,5,3,1199,81,Yes,Yes,Bensin,Manual,No,No,224000000,Murah
+Sedan,Toyota Camry,5,4,2494,180,Yes,Yes,Bensin,Manual,No,Yes,741700000,Standar
+MPV,Toyota Innova Zennix,7,4,1987,172,Yes,Yes,Bensin,CVT,No,Yes,467000000,Murah
+Hatchback,Suzuki Baleno,5,4,1462,103,Yes,Yes,Bensin,Automatic,No,Yes,274900000,Murah
+Sedan,MG 5 GT,5,4,1498,112,Yes,Yes,Bensin,CVT,No,No,399900000,Murah
+Crossover,Hyundai Creta,5,4,1497,113,Yes,Yes,Bensin,CVT,No,Yes,404000000,Murah
+Hatchback,Toyota Yaris,5,4,1496,106,Yes,Yes,Bensin,CVT,No,No,325100000,Murah
+Hatchback,Mazda 2,5,4,1496,109,Yes,Yes,Bensin,Automatic,No,No,338800000,Murah
+Crossover,Mercedes GLA Class,5,4,1991,306,Yes,Yes,Bensin,Automatic,Yes,Yes,1380000000,Mahal
+Crossover,VW T-Cross,5,3,999,115,Yes,Yes,Bensin,Automatic,Yes,No,488000000,Murah
+MPV,Toyota Alphard,7,6,3456,296,Yes,Yes,Bensin,Automatic,No,Yes,1620000000,Mahal
+MPV,Toyota Voxy,7,4,1986,168,Yes,Yes,Bensin,Automatic,No,Yes,579500000,Standar
+SUV,Daihatsu Rocky,5,3,998,97,Yes,Yes,Bensin,Automatic,Yes,Yes,270100000,Murah
+MPV,Hyundai Stargazer,7,4,1497,113,Yes,Yes,Bensin,Automatic,No,Yes,307100000,Murah
+MPV,KIA Grand Carnival,11,4,2151,199,Yes,Yes,Diesel,Automatic,Yes,Yes,828000000,Standar
+SUV,Hyundai Palisade,7,4,2199,197,Yes,Yes,Diesel,Automatic,Yes,Yes,1110000000,Mahal
+MPV,Hyundai Staria,7,4,2199,175,Yes,Yes,Diesel,Automatic,Yes,Yes,1030000000,Mahal
+Sedan,Mercedes CLA Class,5,4,1991,421,Yes,Yes,Bensin,Automatic,Yes,Yes,1790000000,Mahal
+Sedan,Mercedes E CLass,5,4,1991,197,Yes,Yes,Bensin,Automatic,Yes,Yes,1770000000,Mahal
+SUV,Jeep Compass,5,4,2398,180,Yes,Yes,Bensin,Automatic,Yes,Yes,699000000,Standar
+Crossover,Lexus UX,5,4,1987,202,Yes,Yes,Bensin,CVT,Yes,Yes,998000000,Mahal
+Hatchback,Mazda 3 Hatchback,5,4,1998,153,Yes,Yes,Bensin,Automatic,No,Yes,523300000,Standar
+Hatchback,Fiat 500C,4,4,1368,101,Yes,No,Bensin,Automatic,No,No,425000000,Murah
+Coupe ,Toyota Supra,2,6,2998,382,Yes,Yes,Bensin,Automatic,Yes,Yes,2050000000,Mahal
+Coupe ,Subaru BRZ,2,4,2387,233,Yes,Yes,Bensin,Automatic,No,Yes,850000000,Standar
+Coupe ,BMW 2 Series,5,3,1499,213,Yes,Yes,Bensin,Automatic,Yes,No,811000000,Standar
+Coupe ,Toyota GR86,2,4,2387,232,Yes,Yes,Bensin,Automatic,No,Yes,938500000,Mahal
+SUV,Citroen C5,5,4,1598,165,Yes,Yes,Bensin,Automatic,No,No,1060000000,Mahal
+SUV,Mercedes GLB,7,4,1332,163,Yes,Yes,Bensin,Automatic,Yes,No,1120000000,Mahal
+SUV,BMW X1,5,3,1499,140,Yes,Yes,Bensin,Automatic,Yes,No,920000000,Mahal
+SUV,KIA Sonet,5,4,1497,113,Yes,Yes,Bensin,Automatic,No,No,343000000,Murah
+SUV,Subaru Forester,5,4,1995,154,Yes,Yes,Bensin,Automatic,Yes,Yes,659500000,Standar
+SUV,Suzuki Jimny,4,4,1462,101,No,No,Bensin,Automatic,No,No,445100000,Murah
+SUV,VW Tiguan,7,4,1398,150,Yes,Yes,Bensin,Automatic,Yes,No,685000000,Murah
